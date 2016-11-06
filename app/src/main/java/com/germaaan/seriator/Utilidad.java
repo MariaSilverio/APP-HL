@@ -11,6 +11,8 @@ public class Utilidad extends Application {
         super.onConfigurationChanged(newConfig);
     }
 
+
+    //hola
     @Override
     public void onCreate() {
         super.onCreate();
